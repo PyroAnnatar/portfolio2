@@ -73,13 +73,11 @@ const App = () => {
           </div>
         </div>
         <div className="text-white  text-[18px] font-bold flex gap-2 pt-4 z-10">
-          <a href=""></a>
           <button className="bg-black py-2 px-5 rounded-[15px] shadow-[5px_5px_0_rgba(0,198,174,1)] hover:text-[#FFDD55] duration-200">
             <a href="#">Hire me</a>
           </button>
-          <a href=""></a>
           <button className="bg-black py-2 px-5 rounded-[15px] shadow-[5px_5px_0_rgba(0,198,174,1)] hover:text-[#FFDD55] duration-200">
-            Download CV
+            <a href="#">Download CV</a>
           </button>
         </div>
       </div>
